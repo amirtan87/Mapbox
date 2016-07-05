@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PVR APP HO</string>
+    <string name="accessToken">pk.eyJ1IjoiYW1pcnRhbjg3IiwiYSI6ImNpcDNuZDhxdDAwazB2MWtyd3VnMTRyOG8ifQ.FNJ5NBSESXdWTckcNQVkZg</string>
+    <string name="no_location_detected"></string>
+</resources>
